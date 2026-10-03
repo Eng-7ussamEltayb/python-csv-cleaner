@@ -1,0 +1,7 @@
+id,name,amount,city,date
+1, Ali ,1200,Riyadh,2024-01-05
+2,Sara, ,Jeddah,2024-01-06
+3,  Omar,3500.50,Dammam,invalid-date
+1,Ali,1200,Riyadh,2024-01-05
+4,Noura,900,Riyadh,2024-02-01
+5,,150,Jeddah,2024-02-03
